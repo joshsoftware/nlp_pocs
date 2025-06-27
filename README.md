@@ -34,7 +34,7 @@ This Python project performs web crawling and scraping on [LawRato](https://lawr
 2. **Run the script**
   
    ```bash
-   python crawler-python.py
+   python3 crawler-and-scraper.py
 
 2. **Output**
    - The file qa_data.csv will be created in the same directory.
